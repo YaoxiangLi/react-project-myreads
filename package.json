@@ -1,10 +1,12 @@
 {
   "dependencies": {
+    "eslint": "^4.19.0",
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "eslint-config-google": "^0.9.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
